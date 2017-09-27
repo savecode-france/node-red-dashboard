@@ -2,6 +2,7 @@ CACHE MANIFEST
 
 CACHE:
 i18n.js
+iPhone%20X%20Mockup.png
 icon192x192.png
 icon64x64.png
 css/app.min.css
@@ -19,4 +20,4 @@ font-awesome/fonts/fontawesome-webfont.woff2
 NETWORK:
 *
 
-# hash: 8a3c68c3adc0ad0e57c02a6622fbe39dc0db291f730490315b3337f50fd8ff6e
+# hash: dc88592b2d5d8b6c409d5a0d1d672cee96b7c902d5490b91bca41623072bcf64
