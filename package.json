@@ -1,5 +1,5 @@
 {
-    "name": "node-red-dashboard",
+    "name": "node-red-dashboard-es",
     "version": "2.5.1",
     "description": "A set of dashboard nodes for Node-RED",
     "keywords": [
@@ -23,7 +23,7 @@
     "license": "Apache-2.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/node-red/node-red-dashboard.git"
+        "url": "https://github.com/savecode-france/node-red-dashboard.git"
     },
     "node-red": {
     "version": ">=0.14.0",
