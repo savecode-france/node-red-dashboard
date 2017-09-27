@@ -14,6 +14,7 @@
 
 .nr-dashboard-cardpanel {
     box-sizing: border-box;
+    margin-top: 4.5em;
 }
 
 .nr-dashboard-cardpanel > p {
@@ -28,6 +29,8 @@
 
 .nr-dashboard-cardcontainer {
 	position: relative;
+	margin-left: 2em;
+	margin-right: 2em;
 }
 
 .nr-dashboard-cardcontainer > * {
@@ -38,4 +41,15 @@
 
 .nr-dashboard-cardcontainer > .visible {
 	opacity: 1;
+}
+
+.nr-dashboard-cardpanel::before {
+	content: "";
+	position: absolute;
+	background-image: url("/ui/iPhone X Mockup.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 900px;
+	margin-top: -4.5em;
 }
